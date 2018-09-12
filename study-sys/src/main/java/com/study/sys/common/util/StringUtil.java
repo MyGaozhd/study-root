@@ -7,7 +7,7 @@
  * @date 2016年4月18日 上午11:27:41 
  * @version V4.0   
  */
-package com.gaozhd.study.common.util;
+package com.study.sys.common.util;
 
 import java.io.UnsupportedEncodingException;
 import java.lang.reflect.Field;

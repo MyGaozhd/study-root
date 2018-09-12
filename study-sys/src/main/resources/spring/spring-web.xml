@@ -34,7 +34,7 @@
     <context:component-scan base-package="com.gaozhd.study.controller"/>
 
     <!-- 自定义的bean，用于管理Spring应用上下文的资源（主要是bean对象），是Spring应用上下文资源的持有者。 -->
-    <bean class="com.gaozhd.study.ApplicationContextHolder"/>
+    <bean class="com.study.sys.ApplicationContextHolder"/>
 
     <!--非注解的处理器映射器-->
     <bean class="org.springframework.web.servlet.handler.BeanNameUrlHandlerMapping"/>

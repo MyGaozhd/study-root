@@ -1,4 +1,4 @@
-package com.gaozhd.study.common.json;
+package com.study.sys.common.json;
 
 import com.google.gson.Gson;
 

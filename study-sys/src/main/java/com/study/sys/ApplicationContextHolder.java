@@ -1,4 +1,4 @@
-package com.gaozhd.study;
+package com.study.sys;
 
 import org.springframework.beans.BeansException;
 import org.springframework.context.ApplicationContext;

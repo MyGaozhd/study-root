@@ -1,4 +1,4 @@
-package com.gaozhd.study.common.util;
+package com.study.sys.common.util;
 
 import com.gaozhd.ssm.common.util.json.JsonUtil;
 
