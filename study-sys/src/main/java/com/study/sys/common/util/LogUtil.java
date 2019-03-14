@@ -1,6 +1,6 @@
 package com.study.sys.common.util;
 
-import com.gaozhd.ssm.common.util.json.JsonUtil;
+import com.study.sys.common.json.JsonUtil;
 
 public class LogUtil {
 
