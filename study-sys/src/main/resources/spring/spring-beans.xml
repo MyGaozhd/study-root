@@ -3,5 +3,13 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans
 	http://www.springframework.org/schema/beans/spring-beans.xsd">
-
+    <bean name="b" class="com.study.sys.common.test.B">
+        <property name="c" value="123456"></property>
+    </bean>
+    <bean name="a" class="com.study.sys.common.test.A">
+        <property name="b" ref="b"></property>
+    </bean>
+    <bean name="s" class="com.study.sys.common.test.S">
+        <property name="a" ref="a"/>
+    </bean>
 </beans>
