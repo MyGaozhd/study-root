@@ -10,5 +10,6 @@ public class Test {
         S s = (S) ac.getBean("s");
         String c = s.getA().getB().getC();
         System.out.print(c);
+        ((ClassPathXmlApplicationContext) ac).destroy();
     }
 }

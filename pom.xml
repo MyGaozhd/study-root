@@ -168,6 +168,12 @@
             <artifactId>curator-client</artifactId>
             <version>3.2.1</version>
         </dependency>
+        <!--okhttp-->
+        <dependency>
+            <groupId>com.squareup.okhttp3</groupId>
+            <artifactId>okhttp</artifactId>
+            <version>3.13.1</version>
+        </dependency>
 
     </dependencies>
 
