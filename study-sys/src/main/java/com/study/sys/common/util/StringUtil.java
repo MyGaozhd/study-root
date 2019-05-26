@@ -2,7 +2,7 @@
  * @Copyright: Copyright (c) 2016 天坦软件
  * @Title: StringUtil.java
  * @Package com.tiantanhehe.yidongchafang.utils
- * @Description: TODO 
+ * @Description:
  * @author Huke <huke@tiantanhehe.com>
  * @date 2016年4月18日 上午11:27:41 
  * @version V4.0   
@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 
 /**
  * @ClassName: StringUtil
- * @Description: TODO
+ * @Description:
  * @author Huke <huke@tiantanhehe.com>
  * @date 2016年4月18日 上午11:27:41
  * 
